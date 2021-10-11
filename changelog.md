@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.4] - 2021-10-11
+### Added 
+- Sets up VSCode debugging tool
+
 ## [0.1.3] - 2021-10-11
 ### Added 
 - Intalls Redux
