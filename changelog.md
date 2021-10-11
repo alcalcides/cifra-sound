@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.5] - 2021-10-11
+### Added 
+- Provides the Redux in the root component
+
 ## [0.1.4] - 2021-10-11
 ### Added 
 - Sets up VSCode debugging tool
