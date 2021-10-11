@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.3] - 2021-10-11
+### Added 
+- Intalls Redux
+
+### Changed
+- Maintains the React import statement in App component to work fine with React Sight dev tool
+
 ## [0.1.2] - 2021-10-10
 ### Added
 - Launches a place to show the musical note name
