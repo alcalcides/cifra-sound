@@ -13,3 +13,9 @@ test('renders input for cifra', () => {
   const linkElement = screen.getByPlaceholderText(/Type cifra/i);
   expect(linkElement).toBeInTheDocument();
 });
+
+test('renders output for note name', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/Musical note name/i);
+  expect(linkElement).toBeInTheDocument();
+});
