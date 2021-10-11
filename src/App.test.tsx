@@ -7,3 +7,9 @@ test('renders learn react link', () => {
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
+
+test('renders input for cifra', () => {
+  render(<App />);
+  const linkElement = screen.getByPlaceholderText(/Type cifra/i);
+  expect(linkElement).toBeInTheDocument();
+});
